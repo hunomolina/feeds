@@ -11,3 +11,11 @@ url = "https://en.wikivoyage.org/wiki/Main_Page"
 entrySelector = ".jcarousel-wrapper .jcarousel-item"
 titleSelector = "h2"
 linkSelector = "h2 a"
+
+[caasp]
+title = "Caasp"
+url = "https://www.caasp.org.br/noticiascaasp.asp?noticias=1"
+entrySelector = ".post-content"
+titleSelector = "h2 .entry-title"
+linkSelector = "a"
+

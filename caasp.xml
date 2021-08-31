@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.caasp.org.br/noticiascaasp.asp?noticias=1</id>
+    <title>Caasp</title>
+    <updated>2021-08-31T23:26:51.206Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.caasp.org.br/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[0]]></title>
+        <id>https://www.caasp.org.br/atendimento.asp</id>
+        <link href="https://www.caasp.org.br/atendimento.asp"/>
+        <updated>2021-08-31T23:26:50.457Z</updated>
+        <content type="html"><![CDATA[<h1 class="entry-title">
+									<a href="/atendimento.asp"><i class="fa fa-at"></i>&nbsp;Fale Conosco</a>
+								</h1>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1]]></title>
+        <id>https://www.caasp.org.br/farmacia.asp</id>
+        <link href="https://www.caasp.org.br/farmacia.asp"/>
+        <updated>2021-08-31T23:26:50.457Z</updated>
+        <content type="html"><![CDATA[<h1 class="entry-title">
+									<a href="/farmacia.asp"><i class="fa fa-pills"></i>&nbsp;Farmácia</a>
+								</h1>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2]]></title>
+        <id>https://www.caasp.org.br/livraria.asp</id>
+        <link href="https://www.caasp.org.br/livraria.asp"/>
+        <updated>2021-08-31T23:26:50.457Z</updated>
+        <content type="html"><![CDATA[<h1 class="entry-title">
+									<a href="/livraria.asp"><i class="fa fa-book"></i>&nbsp;Livraria</a>
+								</h1>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3]]></title>
+        <id>https://www.caasp.org.br/odontologia.asp</id>
+        <link href="https://www.caasp.org.br/odontologia.asp"/>
+        <updated>2021-08-31T23:26:50.459Z</updated>
+        <content type="html"><![CDATA[<h1 class="entry-title">
+									<a href="/odontologia.asp"><i class="fa fa-tooth"></i>&nbsp;Odontologia</a>
+								</h1>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4]]></title>
+        <id>https://www.caasp.org.br/planos-saude.asp</id>
+        <link href="https://www.caasp.org.br/planos-saude.asp"/>
+        <updated>2021-08-31T23:26:50.459Z</updated>
+        <content type="html"><![CDATA[<h1 class="entry-title">
+									<a href="/planos-saude.asp"><i class="fa fa-ambulance"></i>&nbsp;Planos de Saúde</a>
+								</h1>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5]]></title>
+        <id>https://www.caasp.org.br/rede-medica.asp</id>
+        <link href="https://www.caasp.org.br/rede-medica.asp"/>
+        <updated>2021-08-31T23:26:50.461Z</updated>
+        <content type="html"><![CDATA[<h1 class="entry-title">
+									<a href="/rede-medica.asp"><i class="fa fa-user-md"></i>&nbsp;Rede Médica</a>
+								</h1>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6]]></title>
+        <id>https://www.caasp.org.br/seguros.asp</id>
+        <link href="https://www.caasp.org.br/seguros.asp"/>
+        <updated>2021-08-31T23:26:50.462Z</updated>
+        <content type="html"><![CDATA[<h1 class="entry-title">
+									<a href="/seguros.asp"><i class="fa fa-shield-alt"></i>&nbsp;Seguros</a>
+								</h1>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7]]></title>
+        <id>https://www.caasp.org.br/unidades.asp</id>
+        <link href="https://www.caasp.org.br/unidades.asp"/>
+        <updated>2021-08-31T23:26:50.464Z</updated>
+        <content type="html"><![CDATA[<h1 class="entry-title">
+									<a href="/unidades.asp"><i class="fa fa-map-marker-alt"></i>&nbsp;Unidades CAASP</a>
+								</h1>]]></content>
+    </entry>
+</feed>
